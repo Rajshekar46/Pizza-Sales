@@ -9,3 +9,10 @@
 # Problem Statement
 ## KPI’s REQUIREMENT
 We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
+
+![9803229_pizza_fall_holiday_autumn_tradition_icon](https://github.com/user-attachments/assets/1c9922d6-feab-4f91-b91d-e340fcdd90eb) Darg and drop for image
+
+
+1. Total Revenue:
+
+`SELECT SUM(total_price) AS total_revenue FROM pizza_sales;`
