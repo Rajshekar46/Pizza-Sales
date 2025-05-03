@@ -17,7 +17,7 @@ This project is part of a Business analysis challenge using a real-world dataset
 
 ## 📂 Table of Contents
 
-- [Dataset Description](https://github.com/Rajshekar46/Pizza-Sales/edit/main/README.md#-dataset-description)
+- [Dataset Description](https://github.com/Rajshekar46/Pizza-Sales/main/README.md#-dataset-description)
 - [Business Questions](https://github.com/Rajshekar46/Pizza-Sales/edit/main/README.md#-Business-Questions)
 - [Tools & Techniques](https://github.com/Rajshekar46/Pizza-Sales/edit/main/README.md#-Tools-&-Techniques)
 - [Data Cleaning & Preparation](https://github.com/Rajshekar46/Pizza-Sales/edit/main/README.md#-Data-Cleaning-&-Preparation)
